@@ -1,0 +1,6 @@
+fileignoreconfig:
+  - filename: src/index.html
+    checksum: cf2407eaa33a75556d9935a0fe8bd32155349be0bdb8c38fdef2d728cec99794
+  - filename: src/app/gifs/busqueda/busqueda.component.html
+    checksum: d3a4cafb3c1de29c6f0d61c469ca81a586c6ef62cd51674587a66d2a05477deb
+version: ""
