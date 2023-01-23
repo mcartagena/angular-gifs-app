@@ -4,3 +4,9 @@ fileignoreconfig:
   - filename: src/app/gifs/busqueda/busqueda.component.html
     checksum: d3a4cafb3c1de29c6f0d61c469ca81a586c6ef62cd51674587a66d2a05477deb
 version: ""
+fileignoreconfig:
+- filename: src/app/gifs/services/gifs.service.ts
+  checksum: 3663eab9a29ecf75b7cb5f1eb282b6ff6f8b422f207a72be137adbb888bbb606
+- filename: src/app/gifs/interface/gifs.interface.ts
+  checksum: 05014574d148b6b68e61e5727774067289ced8582cdecd55d4e812b93577d1b2
+version: ""
